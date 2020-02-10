@@ -1,30 +1,31 @@
 {
   "files": {
     "main.css": "/happy-birthday-claire/static/css/main.c26558c6.chunk.css",
-    "main.js": "/happy-birthday-claire/static/js/main.b3069de6.chunk.js",
-    "main.js.map": "/happy-birthday-claire/static/js/main.b3069de6.chunk.js.map",
+    "main.js": "/happy-birthday-claire/static/js/main.8398549d.chunk.js",
+    "main.js.map": "/happy-birthday-claire/static/js/main.8398549d.chunk.js.map",
     "runtime-main.js": "/happy-birthday-claire/static/js/runtime-main.6727264f.js",
     "runtime-main.js.map": "/happy-birthday-claire/static/js/runtime-main.6727264f.js.map",
-    "static/js/2.f56c3785.chunk.js": "/happy-birthday-claire/static/js/2.f56c3785.chunk.js",
-    "static/js/2.f56c3785.chunk.js.map": "/happy-birthday-claire/static/js/2.f56c3785.chunk.js.map",
+    "static/js/2.08ea007f.chunk.js": "/happy-birthday-claire/static/js/2.08ea007f.chunk.js",
+    "static/js/2.08ea007f.chunk.js.map": "/happy-birthday-claire/static/js/2.08ea007f.chunk.js.map",
     "index.html": "/happy-birthday-claire/index.html",
-    "precache-manifest.e3631b4bdda9e4b6bad1496872016c1e.js": "/happy-birthday-claire/precache-manifest.e3631b4bdda9e4b6bad1496872016c1e.js",
+    "precache-manifest.b99356715e905e9d24210f0da96672e4.js": "/happy-birthday-claire/precache-manifest.b99356715e905e9d24210f0da96672e4.js",
     "service-worker.js": "/happy-birthday-claire/service-worker.js",
     "static/css/main.c26558c6.chunk.css.map": "/happy-birthday-claire/static/css/main.c26558c6.chunk.css.map",
-    "static/js/2.f56c3785.chunk.js.LICENSE.txt": "/happy-birthday-claire/static/js/2.f56c3785.chunk.js.LICENSE.txt",
+    "static/js/2.08ea007f.chunk.js.LICENSE.txt": "/happy-birthday-claire/static/js/2.08ea007f.chunk.js.LICENSE.txt",
     "static/media/cooltext.gif": "/happy-birthday-claire/static/media/cooltext.1847a7e1.gif",
     "static/media/dancingbaby.gif": "/happy-birthday-claire/static/media/dancingbaby.9f9d2546.gif",
     "static/media/garth.gif": "/happy-birthday-claire/static/media/garth.ed23d80b.gif",
     "static/media/homealone.gif": "/happy-birthday-claire/static/media/homealone.16fcb6f5.gif",
     "static/media/links.gif": "/happy-birthday-claire/static/media/links.a075928c.gif",
+    "static/media/mr-peanut.gif": "/happy-birthday-claire/static/media/mr-peanut.eb6fcab5.gif",
     "static/media/only_time_enya.mp3": "/happy-birthday-claire/static/media/only_time_enya.2f2888ee.mp3",
     "static/media/truly1.gif": "/happy-birthday-claire/static/media/truly1.ffd608fc.gif",
     "static/media/truly2.gif": "/happy-birthday-claire/static/media/truly2.3e8bf7f3.gif"
   },
   "entrypoints": [
     "static/js/runtime-main.6727264f.js",
-    "static/js/2.f56c3785.chunk.js",
+    "static/js/2.08ea007f.chunk.js",
     "static/css/main.c26558c6.chunk.css",
-    "static/js/main.b3069de6.chunk.js"
+    "static/js/main.8398549d.chunk.js"
   ]
 }
