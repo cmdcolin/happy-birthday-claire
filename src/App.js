@@ -12,32 +12,40 @@ import garth from './garth.gif'
 import peanut from './mr-peanut.gif'
 import please from './please.png'
 
-var audio = new Audio(onlytime)
-
+let play = false
 function App() {
   return (
     <div
       className="App"
       onClick={() => {
-        audio.play()
+        if (!play) {
+          new Audio(onlytime).play()
+          play = true
+        }
       }}
     >
+      <img src={happybirthday} />
+      <img src={please} style={{ width: '25%' }} />
       <div style={{ display: 'flex' }}>
         <div style={{ width: '25%' }}>
-          <img src={truly1} style={{ width: 300, height: 350 }} />
+          <img src={truly1} />
         </div>
         <div style={{ width: '75%' }}>
-          <img src={happybirthday} style={{ marginTop: 50 }} />
-          <img src={please} style={{ width: '25%' }} />
-          <div style={{ display: 'flex' }}>
-            <img src={peanut} style={{ margin: 50 }} />
-            <img src={garth} style={{ margin: 50 }} />
+          <div
+            style={{
+              display: 'flex',
+              flexFlow: 'row nowrap',
+              alignItems: 'center',
+            }}
+          >
+            <img src={peanut} style={{ width: '25%' }} />
+            <img src={garth} />
           </div>
-          <img src={homealone} style={{ margin: 50 }} />
+          <img src={homealone} />
         </div>
         <div style={{ width: '25%' }}>
-          <img src={truly2} style={{ width: 450 }} />
-          <img src={baby} style={{ width: 250 }} />
+          <img src={truly2} />
+          <img src={baby} />
         </div>
       </div>
 

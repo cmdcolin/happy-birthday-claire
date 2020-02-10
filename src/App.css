@@ -2,3 +2,6 @@ body {
   background-image: url("bg.png");
   background-repeat: repeat;
 }
+img {
+  max-width:100%;
+}
