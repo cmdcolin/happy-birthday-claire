@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99945aea909c80b9d0c9982d85e9076e",
+    "revision": "833d5ca4c18b86a936de2cc67cfae4d4",
     "url": "/happy-birthday-claire/index.html"
   },
   {
-    "revision": "cfa301180d12d54a8843",
+    "revision": "fabc1664408af25aa6d0",
     "url": "/happy-birthday-claire/static/css/main.c26558c6.chunk.css"
   },
   {
-    "revision": "fc58542d344447d026bb",
-    "url": "/happy-birthday-claire/static/js/2.08ea007f.chunk.js"
+    "revision": "e7634078d09242b43e13",
+    "url": "/happy-birthday-claire/static/js/2.9f91359c.chunk.js"
   },
   {
     "revision": "99bd0487192ec9e7d9ee8fbbd91ee444",
-    "url": "/happy-birthday-claire/static/js/2.08ea007f.chunk.js.LICENSE.txt"
+    "url": "/happy-birthday-claire/static/js/2.9f91359c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "cfa301180d12d54a8843",
-    "url": "/happy-birthday-claire/static/js/main.8398549d.chunk.js"
+    "revision": "fabc1664408af25aa6d0",
+    "url": "/happy-birthday-claire/static/js/main.86da5453.chunk.js"
   },
   {
     "revision": "8ef64e3b3cc0895705a1",
@@ -50,6 +50,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "2f2888ee6737b2d411401cc7585d3f2e",
     "url": "/happy-birthday-claire/static/media/only_time_enya.2f2888ee.mp3"
+  },
+  {
+    "revision": "c00a959afa0aade153820735f7e74833",
+    "url": "/happy-birthday-claire/static/media/please.c00a959a.png"
   },
   {
     "revision": "ffd608fcd51db70e2ad74ce1d06f5492",
