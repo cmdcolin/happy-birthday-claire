@@ -10,16 +10,25 @@ import homealone from './homealone.gif'
 import happybirthday from './cooltext.gif'
 import garth from './garth.gif'
 import peanut from './mr-peanut.gif'
+import please from './please.png'
+
+var audio = new Audio(onlytime)
 
 function App() {
   return (
-    <div className="App">
+    <div
+      className="App"
+      onClick={() => {
+        audio.play()
+      }}
+    >
       <div style={{ display: 'flex' }}>
         <div style={{ width: '25%' }}>
           <img src={truly1} style={{ width: 300, height: 350 }} />
         </div>
         <div style={{ width: '75%' }}>
           <img src={happybirthday} style={{ marginTop: 50 }} />
+          <img src={please} style={{ width: '25%' }} />
           <div style={{ display: 'flex' }}>
             <img src={peanut} style={{ margin: 50 }} />
             <img src={garth} style={{ margin: 50 }} />
@@ -32,8 +41,7 @@ function App() {
         </div>
       </div>
 
-      <img src={links} />
-      <embed src={onlytime} autoPlay loop hidden />
+      <img src={links} style={{ width: '100%' }} />
     </div>
   )
 }
