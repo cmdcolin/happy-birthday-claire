@@ -1,26 +1,32 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+/* global MIDIjs */
+
+import React from 'react'
+import './App.css'
+import truly1 from './truly1.gif'
+import truly2 from './truly2.gif'
+import links from './links.gif'
+import onlytime from './only_time_enya.mid'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div style={{ display: 'flex' }}>
+        <img src={truly1} />
+        <div style={{ width: 800 }} />
+        <img src={truly2} />
+      </div>
+      <a
+        href="#"
+        onClick={function() {
+          MIDIjs.play(onlytime)
+        }}
+      >
+        Play My Song
+      </a>
+
+      <img src={links} />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
