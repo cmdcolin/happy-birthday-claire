@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,gmQAA+B,CAC/B,wBACF,CACA,IACE,cACF","file":"main.55b1a5ab.chunk.css","sourcesContent":["body {\n  background-image: url(\"bg.png\");\n  background-repeat: repeat;\n}\nimg {\n  max-width:100%;\n}\n"]}
