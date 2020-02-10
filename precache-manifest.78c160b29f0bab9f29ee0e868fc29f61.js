@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0c46016b91e3b43100cc926a01fefb07",
+    "revision": "a42824846317375febf062ba25e95593",
     "url": "/happy-birthday-claire/index.html"
   },
   {
-    "revision": "ca77e55e6cf5e8133227",
+    "revision": "692dec1e15c8354ce68f",
     "url": "/happy-birthday-claire/static/css/main.55b1a5ab.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/happy-birthday-claire/static/js/2.9f91359c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ca77e55e6cf5e8133227",
-    "url": "/happy-birthday-claire/static/js/main.e413e5a1.chunk.js"
+    "revision": "692dec1e15c8354ce68f",
+    "url": "/happy-birthday-claire/static/js/main.82a68b0e.chunk.js"
   },
   {
     "revision": "8ef64e3b3cc0895705a1",
