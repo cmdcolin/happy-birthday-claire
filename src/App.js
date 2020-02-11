@@ -11,6 +11,7 @@ import happybirthday from './cooltext.gif'
 import garth from './garth.gif'
 import peanut from './mr-peanut.gif'
 import please from './please.png'
+import chains from './giphy.gif'
 
 let play = false
 function App() {
@@ -29,6 +30,7 @@ function App() {
       <div style={{ display: 'flex' }}>
         <div style={{ width: '25%' }}>
           <img src={truly1} />
+          <img src={chains} />
         </div>
         <div style={{ width: '75%' }}>
           <div
